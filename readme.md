@@ -1,7 +1,7 @@
 For linux use the following npm  script
 
-NODE_ENV=sarada nodemon index.js
+NODE_ENV=production nodemon index.js
 
 For windows use the following npm  script
 
-SET NODE_ENV=satya& nodemon app.js
+SET NODE_ENV=production & nodemon app.js
